@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Basketball Counter</string>
+    <string name="home_score">0</string>
+    <string name="away_score">0</string>
+    <string name="home_3pt">3PT</string>
+    <string name="home_fg">FG</string>
+    <string name="home_ft">FT</string>
+    <string name="away_3pt">3PT</string>
+    <string name="away_fg">FG</string>
+    <string name="away_ft">FT</string>
+    <string name="home_subtract">-</string>
+    <string name="away_subtract">-</string>
+    <string name="home_team_name">HOME</string>
+    <string name="away_team_name">GUEST</string>
+</resources>
